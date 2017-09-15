@@ -1,0 +1,868 @@
+[
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1505499494000,
+            "changeTime": 1505499494000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1505499494000,
+            "changeTime": 1505499494000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "0a3a1ac207db85da755818ba92e33af9097c756d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1505499580000,
+            "changeTime": 1505499580000,
+            "contentHash": "e6708e445f27c6c909c3fdd27f45d170c7b61077",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1505499669000,
+            "changeTime": 1505499669000,
+            "contentHash": "25e37bf2a47e0d14f280bba0017e9e46c7f7e063",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.cmp",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.cmp",
+            "isDirectory": false,
+            "size": 2869,
+            "modifiedTime": 1505500717000,
+            "changeTime": 1505500717000,
+            "contentHash": "4a50e81d544fdbcd1b2313d7f76e6f930bbaee76",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1505499580000,
+            "changeTime": 1505499580000,
+            "contentHash": "786d7744cdb8f7de1e4ae4a7031008fda9aa5946",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1505501337000,
+            "changeTime": 1505501337000,
+            "isWorkspace": false,
+            "contentHash": "294f43bd10ae589457ea780a0fd5af01822a9236"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.design",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.design",
+            "isDirectory": false,
+            "size": 773,
+            "modifiedTime": 1505500475000,
+            "changeTime": 1505500475000,
+            "contentHash": "234d6ae8a249d5fac8215154e81a399f8e3eea48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentController.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1505499580000,
+            "changeTime": 1505499580000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentHelper.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1505499580000,
+            "changeTime": 1505499580000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentRenderer.js",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1505499580000,
+            "changeTime": 1505499580000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1505499526000,
+            "changeTime": 1505499526000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources/LightningContactImage.resource-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources/LightningContactImage.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1505500256000,
+            "changeTime": 1505500256000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources/LightningContactImage.resource",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources/LightningContactImage.resource",
+            "isDirectory": false,
+            "size": 708646,
+            "modifiedTime": 1505500256000,
+            "changeTime": 1505500256000,
+            "contentHash": "53d8861a7debb5d39f60ee5d0eb71b5972edc45b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1505500256000,
+            "changeTime": 1505500256000,
+            "contentHash": "8efe94e5071a86f26ba261fa5572d15fa6090f12",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 4945,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "bf46c98caa465c45ebbeea459dbea6321a76ddd8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "84c07618a25ba4a26dcbb7fdea901e9cfb7bdfea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "d7e98ed90f81499c3b80a6121310c8e81353db12",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "104e9a00a8886c6a98a247cf4d799fca91cb5cf6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Contact_Picture_URL__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Contact_Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "1cc96dc649a0ac408aacee17f277af0ac0bd9e2d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Department.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Email.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "59513f0c3aba9cf2ca1fa13dd33c44eba996ef42",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "0bf76b491bbd8c15dd147134365be4f3c3f46c31",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Languages__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Languages__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "bf772125c4e77a1bdb5997c83c7915babf266330",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Level__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Level__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 943,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "7ab95b0a1b0c2d75a772d9ea83361375e19db83e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "2aee360d036169b3a3b599183c72b43d549f6b61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "877087142debc4ed3ae3ae152908d60f1e5b8e4e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "dd9820d5134fc39ed321237cbdef5a60b5776771",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "3d50c3aaf57f7e42a001693e02e91ae0222af0e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "7252f1ae0d0fff985c8d3d75c2c66b704d304262",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields/Title.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "8a48fbd36a0119a80ca1a7b0a48a57b35bd03141",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/AllContacts.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/AllContacts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "b1890d7f9fe00ddd4a6dc20150314c3e5cc7bac9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/BirthdaysThisMonth.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/BirthdaysThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "f4296d09b623a562e0d0769e8eec6c0c40529c1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/MyContacts.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/MyContacts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "97534343a3a56570c391065168b4b317964498a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/NewLastWeek.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "926e72493feb4edbe83f4d15bf8f65c0ed16f06f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "8f5af3e68ca4a765b1e8289468b3bed022fc9488",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9892,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "09fcb6a49bf5c2aedbe6263fcbd8169aeb291e6e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9601,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "5d56c073c7767676b2fa0c1b94c2da079aabc1f0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9940,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "6cc04f1487add0a48bd15ac309d551519006c3b9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9940,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "63990d3df86bdd4f9c7d66947d393c6ae74707b0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 8395,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "5eb051fc7f0034c3bb8ad252327af21147c57bc8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 8731,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "359b72b80d9608529c1492dd295d692222d1adf6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 20848,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "c03653d6dacf6de23f0636ade6d82c853bc2f918",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 8391,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "d93c8faf28a385473ed4c928d6828d21d967caea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "4768199c1f74b134d7c6bba8851d183a2e3df12c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1505500528000,
+            "changeTime": 1505500528000,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 1054,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "aae2fdbab3b3f3cc17475f2582fd99fd77e882f2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/objects/Contact/listViews",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "fdd6e7e6e1dff4a43f0a13b94a9255c2aab9b3a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1505500529000,
+            "changeTime": 1505500529000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

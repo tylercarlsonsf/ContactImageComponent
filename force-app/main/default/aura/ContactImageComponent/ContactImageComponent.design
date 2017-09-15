@@ -1,0 +1,21 @@
+<design:component >
+    
+	 <design:attribute name="contact_image_url"
+           label="Contact Image URL Override" 
+           datasource="Blank.png,Male1.png,Male2.png,Male3.png,Female1.png,Female2.png,none"
+           default="none"
+           description="By default the component will use Contact_Picture_URL__c from contact. You can override by selecting from available images, set back to none to use contact picture url"
+      /> 
+    
+    <design:attribute name="image_size" 
+           label="Image size" 
+           datasource="100px,150px,200px,300px" 
+           default="200px" 
+           description="Select Image Size, default 200px"
+      />
+    
+    <sfdc:objects >
+        <sfdc:object >Contact</sfdc:object>
+    </sfdc:objects>
+    
+</design:component>
