@@ -2,7 +2,7 @@
 
 Lightning component to add a nice looking contact image and contact name to lightning record page, useful for story driven demos where the contact is a defined persona with an image.
 
-[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 
 ### Instructions:

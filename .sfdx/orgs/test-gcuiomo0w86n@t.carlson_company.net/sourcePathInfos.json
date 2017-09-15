@@ -60,16 +60,15 @@
     [
         "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent",
         {
+            "state": "u",
             "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1505499669000,
-            "changeTime": 1505499669000,
-            "contentHash": "25e37bf2a47e0d14f280bba0017e9e46c7f7e063",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 204,
+            "modifiedTime": 1505503161000,
+            "changeTime": 1505503161000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "48c73fb2314e6052997c59e8dd779525cc51ce73"
         }
     ],
     [
@@ -104,15 +103,15 @@
     [
         "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.css",
         {
-            "state": "u",
             "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponent.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1505501337000,
             "changeTime": 1505501337000,
-            "isWorkspace": false,
-            "contentHash": "294f43bd10ae589457ea780a0fd5af01822a9236"
+            "contentHash": "294f43bd10ae589457ea780a0fd5af01822a9236",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -130,63 +129,17 @@
         }
     ],
     [
-        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentController.js",
-        {
-            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1505499580000,
-            "changeTime": 1505499580000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentHelper.js",
-        {
-            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1505499580000,
-            "changeTime": 1505499580000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentRenderer.js",
-        {
-            "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent/force-app/main/default/aura/ContactImageComponent/ContactImageComponentRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1505499580000,
-            "changeTime": 1505499580000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
         "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent",
         {
+            "state": "u",
             "sourcePath": "/Users/t.carlson/Documents/DevProjects/DX-projects/ContactImageComponent",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1505499526000,
-            "changeTime": 1505499526000,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 272,
+            "modifiedTime": 1505503495000,
+            "changeTime": 1505503495000,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95"
         }
     ],
     [
