@@ -2,10 +2,12 @@
 
 Lightning component to add a nice looking contact image and contact name to lightning record page, useful for story driven demos where the contact is a defined persona with an image.
 
-### Instructions:
+<a href="https://githubsfdeploy.herokuapp.com?owner=tylercarlsonsf&repo=ContactImageComponent">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
 
-Deploy to Salesforce
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/tylercarlsonsf/ContactImageComponent
+### Instructions:
 
 - Add the component to the Lightning record page for contact
 - The component will default to blank "placeholder image", there is a picker attribute called "Contact Image URL Override" that can be used to choose from some sample images, selecting “none” will use the Contact_Picture_URL__c field from each contact to display the img
